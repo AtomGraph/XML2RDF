@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff xmlns="http://example.org/hr">
+  <employee id="E1007">
+    <name>Ada Byron</name>
+    <email>ada@example.com</email>
+    <born>1990-12-10</born>
+    <managerId>E1001</managerId>
+    <department code="RND">Research</department>
+    <phone kind="Mobile">+44 7700 900018</phone>
+    <phone kind="Work">+44 20 7946 0000</phone>
+    <skill>SPARQL</skill>
+    <skill>XSLT</skill>
+    <note/>
+  </employee>
+  <employee id="E1001">
+    <name>Charles Babbage</name>
+    <email>charles@example.com</email>
+    <department code="RND">Research</department>
+    <phone>+44 20 7946 0001</phone>
+  </employee>
+</staff>
